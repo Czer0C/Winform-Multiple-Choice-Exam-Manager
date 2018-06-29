@@ -14,6 +14,11 @@
 ![alt text](https://i.imgur.com/hF6IjRB.png)
 ![alt text](https://i.imgur.com/dmAQXsR.png)
 
+### Các thành phần chính:
+* Metro Framework
+* LINQ
+* C#
+
 ### Các tool sử dụng:
 * Studio 2017 Enterprise
 * Navicat 12

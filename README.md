@@ -10,16 +10,18 @@
 ### Yêu cầu: 
 > ### Xây dựng 1 ứng dụng "quản lý thi trắc nghiệm" cho trường phổ thông gồm các phân hệ với chức năng tương ứng
 
+***
+
 ### Các chức năng chính:
 ![alt text](https://i.imgur.com/hF6IjRB.png)
 ![alt text](https://i.imgur.com/dmAQXsR.png)
 
-### Các thành phần chính:
+> ### Các thành phần chính:
 * Metro Framework
 * LINQ
 * C#
 
-### Các tool sử dụng:
+> ### Các tool sử dụng:
 * Studio 2017 Enterprise
 * Navicat 12
 * LINQPad
